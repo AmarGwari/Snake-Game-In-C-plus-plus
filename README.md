@@ -15,8 +15,5 @@
 # How to Launch
 
 1) Go in the cloned repository.
-2) Either....
-	a) Execute the a.out file by giving command ./a.out
-	b) Compile the 1stFullCppGame.cpp and run the executable
-	   (again by giving command ./a.out).
+2) Either execute the a.out file by giving command ./a.out or Compile the 1stFullCppGame.cpp and run the executable (again by giving command ./a.out).
 3) Relaunch the game after the game ends.
